@@ -1,6 +1,6 @@
 # Install Eclipse check style plugin
-## Downloa plugin
+## Download plugin
 [checkstyle-plugin](https://checkstyle.org/eclipse-cs/#!/)
 
 ## How to install
-Unzip zip, and copy to eclipse folder path.
+Help -> Install New Software... -> Add.. -> choice plugin zip and install
