@@ -7,7 +7,7 @@ Help -> Install New Software... -> Add.. -> choice plugin zip and install
 
 ## How to use
 At project or java file right click-> Checkstyle -> check code with ckeckstyle
-![Image](/images/check-code-with-style.png)
+![Image](images/check-code-with-style.png)
 
 ## How to auto scan
 At project right click -> Checkstyle -> Activative Checkstyle.
